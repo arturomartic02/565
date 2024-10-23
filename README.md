@@ -7,3 +7,4 @@ por que el proyecto es util
 com pueden comenzar los usuarios  con el proyecto
 donde pueden recibir ayuda los usuarios con tu proyecto
 quien mantiene y contribuye con el proyecto
+commit en rama
